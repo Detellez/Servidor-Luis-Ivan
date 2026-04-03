@@ -628,8 +628,8 @@
     // ==========================================
     // 🌐 EL ENRUTADOR INTELIGENTE V12
     // ==========================================
-    const CEREBRO_URL = 'https://script.google.com/macros/s/AKfycbxar5ba7f-3jys7heqsWeJLCrYjipcIC6HspbzEP3AtgSLZlVPDPfImkFjNevXzCERLDA/exec';
-    const FIREBASE_URL = "https://sst-notificaciones2-default-rtdb.firebaseio.com/alerta_activa.json";
+    const CEREBRO_URL = 'https://script.google.com/macros/s/AKfycbz8dYDMdw-5f7t-eSopmHn6zCvrFgxGIopCR_yROQerTYyyFJIWVBkFKgfs1NGn1W4x/exec';
+    const FIREBASE_URL = "https://notificasion-luis-default-rtdb.firebaseio.com/alerta_activa.json";
     
     const API_URL = CEREBRO_URL;
     
