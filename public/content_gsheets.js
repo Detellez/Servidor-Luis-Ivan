@@ -4,7 +4,7 @@
     // ==========================================
     // 1. CONFIGURACIÓN Y ENRUTADOR INTELIGENTE V12
     // ==========================================
-    const CEREBRO_URL = 'https://script.google.com/macros/s/AKfycbxar5ba7f-3jys7heqsWeJLCrYjipcIC6HspbzEP3AtgSLZlVPDPfImkFjNevXzCERLDA/exec';
+    const CEREBRO_URL = 'https://script.google.com/macros/s/AKfycbz8dYDMdw-5f7t-eSopmHn6zCvrFgxGIopCR_yROQerTYyyFJIWVBkFKgfs1NGn1W4x/exec';
     
    const API_URL = CEREBRO_URL;
 
